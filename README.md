@@ -3,7 +3,7 @@
 
 # Hi there, I'm Priya! 👋  
 
-🎓 **CSE | 2nd Year Student**  
+🎓 **CSE | 3rd Year Student**  
 💻 **Passionate about Coding & Problem Solving**  
 🚀 **Exploring new technologies and building projects**  
 
